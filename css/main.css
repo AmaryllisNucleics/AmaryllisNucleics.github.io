@@ -1,0 +1,26 @@
+.amaryllis-color {
+  color: rgb(200, 0, 6);
+}
+
+.nucleics-color {
+  color: rgb(248, 119, 7);
+}
+
+.landing {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.landing .logo {
+  width: 100%;
+}
+
+.landing .btn-email, .landing .btn-email:active {
+  border-color: rgb(241, 100, 62);
+  color: rgb(241, 100, 62);
+  margin-top: 30px;
+}
+
+.landing .btn-email:hover, .landing .btn-email:active {
+  background-color: rgb(254, 195, 84);
+}
